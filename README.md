@@ -1,3 +1,3 @@
 # MlAlgoImplementation
 
-It contains the code of machine learning algorithms did during the Courseara machine learning course. 
+Assignments of Machine Learning instructed by Prof Andrew Nz.  
