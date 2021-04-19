@@ -1,3 +1,5 @@
-# MlAlgoImplementation
+# Course Details :
 
-Assignments of Machine Learning instructed by Prof Andrew Nz.  
+Course Name : Courseara Machine Learning
+Instructed By : Prof Andrew NZ
+Topic Covered : Linear Regression, Logistic Regreesion, Neural Network, Recommendation System, SVM
